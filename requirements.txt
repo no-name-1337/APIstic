@@ -1,0 +1,10 @@
+plotly~=5.18.0
+pymongo~=4.5.0
+streamlit~=1.28.1
+pandas~=2.1.1
+openapi_spec_validator
+streamlit-aggrid
+seaborn~=0.13.0
+matplotlib~=3.8.0
+numpy~=1.26.1
+Pillow~=10.1.0
